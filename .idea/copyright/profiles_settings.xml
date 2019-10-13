@@ -1,11 +1,11 @@
 <component name="CopyrightManager">
   <settings default="Arley Corto">
     <module2copyright>
-      <element module="Production" copyright="Arley Largo" />
       <element module="Project Files" copyright="Arley Corto" />
     </module2copyright>
     <LanguageOptions name="JAVA">
       <option name="fileTypeOverride" value="3" />
+      <option name="block" value="false" />
       <option name="separateBefore" value="true" />
       <option name="separateAfter" value="true" />
       <option name="prefixLines" value="false" />
