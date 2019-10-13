@@ -1,8 +1,8 @@
 <component name="CopyrightManager">
-  <settings>
+  <settings default="Arley Corto">
     <module2copyright>
       <element module="Production" copyright="Arley Largo" />
-      <element module="All" copyright="Arley Corto" />
+      <element module="Project Files" copyright="Arley Corto" />
     </module2copyright>
     <LanguageOptions name="JAVA">
       <option name="fileTypeOverride" value="3" />
